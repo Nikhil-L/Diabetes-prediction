@@ -1,1 +1,1 @@
-# Diabetes-prediction
+# Pima Indian Diabetes Prediction
